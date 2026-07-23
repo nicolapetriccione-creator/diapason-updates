@@ -1,5 +1,5 @@
 {
-  "version": "0.5.2",
+  "version": "0.5.3",
   "url": "https://github.com/nicolapetriccione-creator/Diapason/releases",
-  "notes": "Inquadramenti cartografici automatici da OpenStreetMap, relazioni in tipografia Poppins (font incorporato nel PDF), contributo differenziale e riepilogo conclusioni allineato alla verifica di calibrazione."
+  "notes": "Analisi spettrale in Excel allegata alla relazione: foglio di riepilogo e terzi d'ottava per misura, opzionale dalla pagina Genera."
 }
